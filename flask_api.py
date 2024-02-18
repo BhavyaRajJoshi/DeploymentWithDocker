@@ -24,9 +24,6 @@ def predict_note_authentication():
 
 
 
-
-
-
 if __name__ == '__main__': 
     app.run()
 
