@@ -1,12 +1,3 @@
-'''
-All the commands we will use in docker
-1. FROM
-2. copy
-3. EXPOSE
-4.WORKDIR
-5. RUN
-6. CMD 
-'''
 
 # Use an official Python runtime as a parent image
 FROM python:3.9
